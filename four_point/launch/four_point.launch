@@ -1,0 +1,5 @@
+<launch>
+
+ <node name = "four_point" pkg = "four_point" type = "four_point_node" />
+
+</launch>
